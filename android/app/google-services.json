@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "366067248009",
+    "project_id": "meme-yogi",
+    "storage_bucket": "meme-yogi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366067248009:android:c94406e6de32d684d88f58",
+        "android_client_info": {
+          "package_name": "com.memeyogi.memeyogi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366067248009-fbvcea05isd71djn2haas3qfd52ltd7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.memeyogi.memeyogi",
+            "certificate_hash": "5b0065861ac7f2ea24f9d39b94f40758244cb280"
+          }
+        },
+        {
+          "client_id": "366067248009-kkv8f54l37bfpg9g6r7oi1b2i9ffc114.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpsACvkoCn3i_4YwWKCickwzu8oFSJBNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366067248009-kkv8f54l37bfpg9g6r7oi1b2i9ffc114.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
